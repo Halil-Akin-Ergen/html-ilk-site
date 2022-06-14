@@ -1,2 +1,0 @@
-# html-ilk-site
-hakkımda
